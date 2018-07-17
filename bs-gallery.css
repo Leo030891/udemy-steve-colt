@@ -3,3 +3,16 @@ body{
 	padding-top: 70px;
 	padding-bottom: 10px;
 }
+
+.jumbotron{
+	color: #2c3e50;
+}
+
+.navbar-light{    
+	background: #2c3e50;
+}
+
+#navbarSupportedContent ul li a {
+  color: white;
+}
+
