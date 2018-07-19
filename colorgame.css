@@ -1,0 +1,19 @@
+body{
+	background: black;
+	color:white;
+	text-transform: uppercase;
+	text-align: center;
+}
+.pad{
+	height: 200px;
+	width: 	30%;
+	margin: 1.66%;
+	background-color: 	green;
+	float:left;
+}
+
+.container{
+	margin: 0 auto;
+	max-width: 600px;
+}
+
